@@ -3,7 +3,7 @@ import React from 'react';
 export default function Portfolio() {
   return (
     <div>
-      <h1>Portfolio Page</h1>
+      <h1 style={{color: "purple"}}>Portfolio Page</h1>
       <ul>
         <li>
           <a href="https://github.com/StephenSaylor">Github Profile</a>

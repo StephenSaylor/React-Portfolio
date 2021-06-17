@@ -2,9 +2,9 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <header>
+    <header style={{color: "brown", backgroundColor: "black" }}>
       Stephen Saylor's Nav Tabs
-      <nav>
+      <nav style={{color: "red"}}>
         <ul className="nav nav-tabs">
           <li className="nav-item">
             <a
